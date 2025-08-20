@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "example"
+title: "アフターコロナの金利引下げ局面を狙った米国債への長期投資（失敗）"
 tags:
   - memo
   - tech
