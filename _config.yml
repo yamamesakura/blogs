@@ -1,0 +1,19 @@
+title: blog title for yamamesakura
+
+description: .........****
+baseurl: "/blogs"
+url: "https://yamamesakura.github.io"
+markdown: kramdown
+plugins:
+- jekyll-feed
+defaults:
+-
+scope:
+path: ""
+type: "posts"
+values:
+layout: "post"
+collections:
+  posts:
+    output: true
+    permalink: /:year/:month/:day/:title/

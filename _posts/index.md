@@ -1,3 +1,13 @@
+---
+layout: post
+title: "example"
+tags:
+  - memo
+  - tech
+date: "2024-8-24"
+---
+
+
 # Markdown でブログ作成
 
 ## 環境構築手順
